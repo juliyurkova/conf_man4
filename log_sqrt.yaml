@@ -1,0 +1,56 @@
+load_constant 100 6:
+- 186
+- 100
+- 6
+load_constant 121 7:
+- 186
+- 121
+- 7
+load_constant 25 1:
+- 186
+- 25
+- 1
+load_constant 36 2:
+- 186
+- 36
+- 2
+load_constant 49 3:
+- 186
+- 49
+- 3
+load_constant 64 4:
+- 186
+- 64
+- 4
+load_constant 81 5:
+- 186
+- 81
+- 5
+sqrt 1 8:
+- 56
+- 1
+- 8
+sqrt 2 9:
+- 56
+- 2
+- 9
+sqrt 3 10:
+- 56
+- 3
+- 10
+sqrt 4 11:
+- 56
+- 4
+- 11
+sqrt 5 12:
+- 56
+- 5
+- 12
+sqrt 6 13:
+- 56
+- 6
+- 13
+sqrt 7 14:
+- 56
+- 7
+- 14
